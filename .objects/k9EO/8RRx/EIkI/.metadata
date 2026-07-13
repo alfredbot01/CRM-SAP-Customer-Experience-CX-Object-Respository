@@ -1,0 +1,16 @@
+﻿{
+  "Name": "CRM SAP web app",
+  "Type": "Screen",
+  "Id": "EIkIv-DdckKIiCF9OCPGSA",
+  "Reference": "ZgohenmVx0G_MLmkE-HO7A/EIkIv-DdckKIiCF9OCPGSA",
+  "ParentRef": "ZgohenmVx0G_MLmkE-HO7A/8RRxwxDpZEOTiWUdY0U7vQ",
+  "Created": "2026-07-12T08:57:03.4929152Z",
+  "Updated": "2026-07-12T09:10:44.3911357Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

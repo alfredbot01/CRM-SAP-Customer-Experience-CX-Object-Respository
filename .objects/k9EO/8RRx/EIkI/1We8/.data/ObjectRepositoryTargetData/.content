@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="CBXwNprHLEWHlPMsScrrGA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/sap/default.html" DesignTimeRectangle="13, 310, 2881, 1408" DesignTimeScaleFactor="2.4600000381469727" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='loginPage' tag='DIV' /&gt;" Guid="1cb8cce5-9567-41d5-af3d-3ce3a7a44463" ScopeSelectorArgument="&lt;html app='chrome.exe' title='SAP CRM Cloud Portal' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="c59493a457540d756ef3cd2b1cf3d9c8.jpg" xmlns="">0Qz4n4nJwi0G6ub0dOJlIpg</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

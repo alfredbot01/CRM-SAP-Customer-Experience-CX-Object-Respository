@@ -1,0 +1,6 @@
+{
+  "Name": "CRM_ObjectRespository",
+  "ProjectType": "Tests",
+  "Description": "Test Automation Project",
+  "MainFile": "Main.xaml"
+}

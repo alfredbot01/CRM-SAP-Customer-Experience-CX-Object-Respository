@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome: SAP CRM Cloud Portal app",
+  "Type": "App",
+  "Id": "k9EOM95NSk-yfAQn4jd-xA",
+  "Reference": "ZgohenmVx0G_MLmkE-HO7A/k9EOM95NSk-yfAQn4jd-xA",
+  "Created": "2026-07-12T08:57:03.4606902Z",
+  "Updated": "2026-07-12T08:57:03.4606902Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
